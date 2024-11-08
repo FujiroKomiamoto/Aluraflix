@@ -1,7 +1,7 @@
 body {
     font-family: "Chakra Petch", sans-serif;
     color: white;
-    background: black;
+    background: rgb(0, 0, 0);
     margin: 20px;
     margin-bottom: 100px;
 }
@@ -57,47 +57,3 @@ img {
 .categoria h2 {
     color: rgb(143, 17, 0);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
